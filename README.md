@@ -2,14 +2,14 @@
 
 ---
 
-# 🌈 목표
+## 🌈 목표
 
 >1. 코딩테스트에 빈출되는 SQL 유형에 대한 대비
 >2. 문제 풀이와 더불어 데이터베이스 이론에 대한 추가적인 학습
 >3. 매일 최소 1문제 이상의 SQL 문제풀이 Challenge
 
 
-# 🙌 진행 방식
+## 🙌 진행 방식
 
 >1. 매일 최소 1문제 SQL 문제를 풀고 OS 스터디 시간에 리뷰를 진행합니다.
 >2. 개인별 폴더를 만들고 매주 branch를 설정하여 해결한 문제에 대한 코드를 업로드하고 공통저장소에 공유합니다.   
@@ -24,16 +24,16 @@ SQL은 Structured Query Language 또는 영어로 Structured Query Language의 �
 
 - [🌈 목표](#-목표)
 - [🙌 진행 방식](#-진행-방식)
-  - [📖 SQL이란?](#-sql이란)
-  - [Contents](#contents)
-  - [SELECT](#select)
-    - [DISTINCT](#distinct)
-    - [SQL WHERE](#sql-where)
-    - [Operators in The WHERE Clause](#operators-in-the-where-clause)
-  - [AND, OR, NOT](#and-or-not)
-  - [ORDER BY](#order-by)
-  - [SELECT TOP](#select-top)
-  - [Reference](#reference)
+- [📖 SQL이란?](#-sql이란)
+- [Contents](#contents)
+- [SELECT](#select)
+  - [DISTINCT](#distinct)
+  - [SQL WHERE](#sql-where)
+  - [Operators in The WHERE Clause](#operators-in-the-where-clause)
+- [AND, OR, NOT](#and-or-not)
+- [ORDER BY](#order-by)
+- [SELECT TOP](#select-top)
+- [Reference](#reference)
 
  ## [SELECT](https://www.w3schools.com/sql/sql_select.asp)
 
