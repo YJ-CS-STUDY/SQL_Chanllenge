@@ -22,10 +22,6 @@ SQL은 Structured Query Language 또는 영어로 Structured Query Language의 �
 
 ## Contents
 
-- [🌈 목표](#-목표)
-- [🙌 진행 방식](#-진행-방식)
-- [📖 SQL이란?](#-sql이란)
-- [Contents](#contents)
 - [SELECT](#select)
   - [DISTINCT](#distinct)
   - [SQL WHERE](#sql-where)
