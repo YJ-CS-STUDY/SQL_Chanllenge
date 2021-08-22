@@ -172,8 +172,6 @@ SELECT * FROM Customers
 ORDER BY Country ASC, CustomerName DESC;
  ~~~~
  
- ## [SELECT TOP](https://www.w3schools.com/sql/sql_top.asp)
-
 
  
  ## Reference
