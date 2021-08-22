@@ -9,12 +9,18 @@
 >3. 매일 최소 1문제 이상의 SQL 문제풀이 Challenge
 
 
-### 🙌 진행 방식
+### 🙌 진행 방법(8.23 update)
 
->1. 매일 최소 1문제 SQL 문제를 풀고 OS 스터디 시간에 리뷰를 진행합니다.
->2. 개인별 폴더를 만들고 매주 branch를 설정하여 해결한 문제에 대한 코드를 업로드하고 공통저장소에 공유합니다.   
->3. 컨텐츠는 [HackerRank](https://www.hackerrank.com/domains/sql) 와 [프로그래머스 SQL 고득점 kit](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit) 의 문제를 풀 예정입니다.
-
+1. 협업
+  - 내용정리: Notion (제작 예정)
+  - 코드공유: Github
+  - 소통: Agit Talk
+2. 8.23 ~ 8.30까지 기본 SQL 개념에 대해 W3School을 공부합니다
+3. 8.31 ~ 부터 [소스관리 예제로 쉽게 배우는 MySQL](http://www.yes24.com/Product/Goods/6166962) 이라는 책으로 매주 컨텐츠를 제작하여 제공해드릴 예정입니다. 
+4. Pandas와 SQL를 사용하여 동일한 출력을 보여주는 명령어를 완성해주세요
+  - [예시](https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e)
+6. 완성된 코드는 Github repository에 push 해주세요
+7. 책이 마무리되는 이후로 SQL 실전 문제풀이를 진행하겠습니다 
 
 ### 📖 SQL이란?
 
