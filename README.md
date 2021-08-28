@@ -48,7 +48,7 @@ SELECT column1, column2 FROM table_name
 SELECT * FROM table_name
 ~~~~
 
-  ### [DISTINCT](https://www.w3schools.com/sql/sql_distinct.asp)
+  ### [DISTINCT](https://www.w3schools.com/sql/sql_istinct.asp)
   
 선택한 필드에 중복 데이터가 포함된 레코드를 생략합니다. 쿼리 결과에 포함하려면 SELECT 문에 나열된 각 필드의 값은 고유해야 합니다.
 
